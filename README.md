@@ -1,4 +1,3 @@
-Here's a solid **GitHub repository description** for your Number Guessing Game:  
 
 ---
 
