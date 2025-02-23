@@ -29,6 +29,6 @@ A fun and interactive **Number Guessing Game** built using **HTML, CSS, and Java
 2. Open `index.html` in a browser.  
 
 ## 🎮 Play Now  
-*(If hosted, add the live demo link here)*  
+[*(If hosted, add the live demo link here)*](https://punittak2005.github.io/Number-Guessing-Game/)  
 
 ---
